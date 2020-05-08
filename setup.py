@@ -6,7 +6,7 @@ setup(
     version='0.1',
     description='utility for finance',
     author='dgde',
-    author_email='ajene.ameh.abraham@gmail.com,
+    author_email='amexxpayne@gmail.com,
     packages=find_packages(),
     py_modeuls=["pyfinance"]
 )
